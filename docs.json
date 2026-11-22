@@ -1,0 +1,7 @@
+{
+  "name": "OneGTMLab Explainers",
+  "description": "Short explainers on B2B go-to-market terms, from OneGTMLab.",
+  "sidebar": [
+    { "group": "Funnel terms", "pages": [ ["MQL, SQL and opportunity", "/"] ] }
+  ]
+}
